@@ -9,12 +9,21 @@ dependencies:
   # To update these, use "flutter update-packages --force-upgrade".
   #
   # For detailed instructions, refer to:
+<<<<<<< HEAD
   # https://github.com/flutter/flutter/blob/main/docs/infra/Updating-dependencies-in-Flutter.md
   archive: 3.6.1
   args: 2.7.0
   dds: 5.0.0
   dwds: 24.3.10
   code_builder: 4.10.1
+=======
+  # https://github.com/flutter/flutter/wiki/Updating-dependencies-in-Flutter
+  archive: 3.3.2
+  args: 2.4.2
+  browser_launcher: 1.1.1
+  dds: 3.1.0+1
+  dwds: 23.0.0+1
+>>>>>>> b7e7d46a046ba8a22897a514bf2311a0f81ab198
   completion: 1.0.1
   coverage: 1.11.1
   crypto: 3.0.6
@@ -122,4 +131,8 @@ dartdoc:
   # Exclude this package from the hosted API docs.
   nodoc: true
 
+<<<<<<< HEAD
 # PUBSPEC CHECKSUM: c093
+=======
+# PUBSPEC CHECKSUM: 45be
+>>>>>>> b7e7d46a046ba8a22897a514bf2311a0f81ab198
